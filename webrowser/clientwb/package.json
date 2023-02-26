@@ -1,0 +1,26 @@
+{
+  "name": "clientwb",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.1.96",
+    "axios": "^1.3.4",
+    "pinia": "^2.0.32",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "vuetify": "^3.1.6"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "deepmerge": "^4.3.0",
+    "sass": "~1.32",
+    "sass-loader": "^13.2.0",
+    "vite": "^4.1.3"
+  }
+}
